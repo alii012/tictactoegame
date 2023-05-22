@@ -1,7 +1,7 @@
 # tictacto:
        a tic tac toe game that u will play aginst AI 
-the player is winning, and a negative score means 
-we have in tictactoe.py 8 functions lets start break all this fucntions down
+       its an easy game and i had alot of fun with it .-.
+we have in tictactoe.py 8 functions lets start break all these fucntions down
 
 1- inital_state(): as u see this function is the inital_state of the game we just EMPTY Game
 
